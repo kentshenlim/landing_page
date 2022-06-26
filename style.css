@@ -149,3 +149,43 @@ a{
     display: flex;
     justify-content: flex-end;
 }
+
+
+.fifth{
+    display: flex;
+    background-color: #3882F6;
+    margin: 100px auto;
+    justify-content: space-around;
+    max-width: 80%;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+
+.fifth-left{
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+}
+
+
+.fifth-left-first{
+    font-size: 28px;
+    font-weight: 700;
+}
+
+
+.fifth-left-right{
+    font-size: 24px;
+}
+
+
+.fifth-right{
+    background-color: #3882F6;
+    width: 10%;
+    margin-top: 10px;
+    font-size: 22px;
+    border-radius: 7px;
+    border: 3px solid #E5E7EB;
+    color: #E5E7EB;
+}
